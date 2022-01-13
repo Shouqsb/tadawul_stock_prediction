@@ -16,7 +16,7 @@ The dataset found at [Kaggle](https://www.kaggle.com/salwaalzahrani/saudi-stock-
 * Filter the sectors by (Energy and communication services)
 * apply the model on two companies in each sector
 
-*Models*
+### Models
 We used different machine learning algorithms on one company which is National Shipping Company of Saudi Arabia Co.(BAHRI)‏ in energy sector to compare each model to find the best one which achieves best results.
 
 
