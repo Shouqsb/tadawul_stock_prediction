@@ -36,7 +36,7 @@ Long short-term memory (LSTM) :
 * True Prediction Percentage : 71%
 
 
-##Findngs and Result
+## Findngs and Result
 As the above results, the LSTM model gives best results , thus, we apply the LSTM model on the oldest four companies in Energy and Communication Service sectors.
 
 
